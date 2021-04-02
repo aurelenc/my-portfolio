@@ -100,9 +100,5 @@ module.exports = {
     },
   },
   footerLinks: [
-    {
-      name: "Imprint",
-      url: "/imprint",
-    },
   ],
 };

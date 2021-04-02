@@ -7,30 +7,30 @@ module.exports = {
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://jolly-tree-04c74f003.azurestaticapps.net/",
   siteLanguage: "en_US",
-  siteIcon: "content/favicon.png", // Relative to gatsby-config file
-  seoTitleSuffix: "Portfolio Minimal", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
-  
+  siteIcon: "https://avatars.githubusercontent.com/u/33877327", // Relative to gatsby-config file
+  seoTitleSuffix: "My portfolio", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
+
   // -- THEME SETTINGS -----
   colors: {
     lightTheme: {
-      primary: "#000000",
-      secondary: "#FFF4D9",
+      primary: "#00FF00",
+      secondary: "#0000FF",
       tertiary: "#F2F2F2",
       text: "#000000",
       subtext: "#555555",
-      background: "#FFFFFF",
+      background: "#FF0000",
       card: "#FFFFFF",
       scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
     },
     darkTheme: {
-      primary: "#FAFAFA",
-      secondary: "#2A2926",
+      primary: "#00FF00",
+      secondary: "#0000FF",
       tertiary: "#252525",
       text: "rgba(255, 255, 255, 0.87)",
       subtext: "#AAAAAA",
-      background: "#121212",
+      background: "#FF0000",
       card: "#1C1C1C",
       scrollBar: "rgba(255, 255, 255, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",

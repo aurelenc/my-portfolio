@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Aurèle Nicolas - Portfolio",
   siteShortTitle: "My portfolio", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "A modern one-page portfolio with a clean yet expressive design.",
+    "That's my portfolio.",
   siteUrl: "https://jolly-tree-04c74f003.azurestaticapps.net/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file

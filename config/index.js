@@ -7,7 +7,7 @@ module.exports = {
     "A modern one-page portfolio with a clean yet expressive design.",
   siteUrl: "https://jolly-tree-04c74f003.azurestaticapps.net/",
   siteLanguage: "en_US",
-  siteIcon: "https://avatars.githubusercontent.com/u/33877327", // Relative to gatsby-config file
+  siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "My portfolio", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
